@@ -1,24 +1,29 @@
 # Hi, I'm pffoijeguff 👋
 
-I like building things, testing ideas, and learning how software works by working on real projects.
+I enjoy building software, exploring ideas, and turning ambitious concepts into working projects.
 
-## What I'm working on
+## Projects
 
-- **ARASH** — a trading-related software project in active development.
-- **Unity and Android** — learning the tools and workflow for making Android games.
-- **Project tooling** — improving documentation, automated checks, and the way I organize larger projects.
+### ARASH
+A trading-related software project focused on research, simulation, and risk controls. It's still in development, and its features are being checked as the work progresses.
+
+### ARTA
+A personal assistant project built around bringing useful tools and everyday workflows together. The design and implementation are being developed in stages.
+
+### JARVIS Ω∞
+An exploration of a desktop-assistant setup, including voice-led interaction, local workflows, proactive help, and personal knowledge organization. This is a work in progress.
+
+### Unity / Android
+Exploring Unity and the Android game-development workflow, with the goal of building a small game.
+
+### Personal Portfolio
+A small website and project notes to keep my work, progress, and next steps organized.
 
 ## How I work
 
-I prefer starting with a big idea and turning it into smaller parts that can be built and tested. I try to be clear about what is finished, what is still being developed, and what needs more verification.
+I like starting with a big idea, breaking it into practical pieces, and checking each part as it takes shape. I’d rather show what’s actually working than make claims before the work is ready.
 
-## Current focus
-
-- Building stronger software development habits.
-- Improving project structure, testing, and documentation.
-- Turning ideas into working projects one milestone at a time.
-
-ARASH is a work in progress. I’m not claiming verified profitability, production readiness, or live-trading performance. I’ll share more as there are concrete results to show.
+More projects will be added as I organize and publish them.
 
 ---
 
