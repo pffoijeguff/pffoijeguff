@@ -1,30 +1,45 @@
-# Hi, I'm pffoijeguff 👋
+# Hi, I'm Amirreza 👋
 
-I enjoy building software, exploring ideas, and turning ambitious concepts into working projects.
+**AI Builder · Vibe Coder · Independent Project Creator**
 
-## Projects
+I explore how AI systems, automation, and software can turn ambitious ideas into practical tools. My work focuses on designing systems, connecting components into useful workflows, and improving projects through structured iteration and verification.
 
-### ARASH
-A trading-related software project focused on research, simulation, and risk controls. It's still in development, and its features are being checked as the work progresses.
+I'm an independent builder from Iran, currently exploring AI-powered products and game development.
 
-### ARTA
-A personal assistant project built around bringing useful tools and everyday workflows together. The design and implementation are being developed in stages.
+## What I'm Working On
 
-### JARVIS Ω∞
-An exploration of a desktop-assistant setup, including voice-led interaction, local workflows, proactive help, and personal knowledge organization. This is a work in progress.
+### 🤖 AI Systems & Agents
+- **[ARTA](https://github.com/pffoijeguff/ARTA)** — An AI assistant concept focused on bringing tools, workflows, and proactive assistance into one coherent experience. *In development.*
+- **[JARVIS Ω∞](https://github.com/pffoijeguff/Jarvis-omega)** — Exploring desktop-assistant workflows, voice-first interaction, local tools, and personal knowledge organization. *In development.*
 
-### Unity / Android
-Exploring Unity and the Android game-development workflow, with the goal of building a small game.
+### 📈 Trading Intelligence
+- **[ARASH AI Trading](https://github.com/pffoijeguff/ARASH-)** — A trading-intelligence project exploring market analysis, strategy research, reporting, and risk-aware workflows. *In development; not a claim of profitability or financial advice.*
 
-### Personal Portfolio
-A small website and project notes to keep my work, progress, and next steps organized.
+### 🎮 Game Development
+- **[Unity Android Game](https://github.com/pffoijeguff/Unity-Android-Game)** — Exploring mobile game development with Unity, with a focus on building toward a playable Android experience.
 
-## How I work
+### 🌐 Portfolio
+- **[Personal Portfolio](https://github.com/pffoijeguff/portfolio)** — A home for my portfolio website and project presentation.
 
-I like starting with a big idea, breaking it into practical pieces, and checking each part as it takes shape. I’d rather show what’s actually working than make claims before the work is ready.
+## Areas I Explore
 
-More projects will be added as I organize and publish them.
+- AI tools, agents, and workflow automation
+- Vibe coding and rapid prototyping
+- System design, integration, and iterative quality checks
+- Trading software concepts and risk-aware analysis
+- Unity and Android game development
+- Turning early-stage ideas into structured project plans
+
+## How I Build
+
+I start with the goal, break it into systems and milestones, connect the parts, and verify what actually works. I value clear documentation, honest project status, practical experiments, and continuous improvement over unsupported claims.
+
+Most projects here are evolving work in progress. Their scope, implementation, and reliability may change as development continues.
+
+## Connect
+
+- **GitHub:** [@pffoijeguff](https://github.com/pffoijeguff)
 
 ---
 
-Thanks for stopping by.
+*Think big. Build in stages. Verify the result. Keep going.*
