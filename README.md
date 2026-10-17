@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm pffoijeguff 👋
 
-<!--
-**pffoijeguff/pffoijeguff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things, testing ideas, and learning how software works by working on real projects.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ARASH** — a trading-related software project in active development.
+- **Unity and Android** — learning the tools and workflow for making Android games.
+- **Project tooling** — improving documentation, automated checks, and the way I organize larger projects.
+
+## How I work
+
+I prefer starting with a big idea and turning it into smaller parts that can be built and tested. I try to be clear about what is finished, what is still being developed, and what needs more verification.
+
+## Current focus
+
+- Building stronger software development habits.
+- Improving project structure, testing, and documentation.
+- Turning ideas into working projects one milestone at a time.
+
+ARASH is a work in progress. I’m not claiming verified profitability, production readiness, or live-trading performance. I’ll share more as there are concrete results to show.
+
+---
+
+Thanks for stopping by.
