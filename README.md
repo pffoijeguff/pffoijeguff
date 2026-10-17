@@ -1,6 +1,6 @@
 # Hi, I'm Amirreza 👋
 
-**AI Builder · Vibe Coder · Independent Project Creator**
+**AI Builder | Vibe Coder | AI Agents, Automation & Software Projects**
 
 I explore how AI systems, automation, and software can turn ambitious ideas into practical tools. My work focuses on designing systems, connecting components into useful workflows, and improving projects through structured iteration and verification.
 
